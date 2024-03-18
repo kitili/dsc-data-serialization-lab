@@ -6,6 +6,7 @@ Now that you have learned about CSV and JSON file formats individually, it's tim
 
 ## Objectives
 
+
 You will be able to:
 
 * Practice reading serialized JSON and CSV data from files into Python objects
